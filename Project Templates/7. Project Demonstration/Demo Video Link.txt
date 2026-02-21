@@ -1,0 +1,7 @@
+Project Name: 
+Deep Learning Fundus Image Analysis for Early Detection of Diabetic Retinopathy
+
+Team ID : LTVIP2026TMIDS83275
+
+Project demo video link:
+https://drive.google.com/file/d/1iN3rZb8a9WW2M-blgGwT6VWkFr8dHwjf/view?usp=sharing
